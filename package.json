@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "name": "express",
+  "version": "1.0.0",
+  "description": "This Server is express server",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhishekPatil2028/express.git"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "web",
+    "server"
+  ],
+  "author": "Abhishek Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbhishekPatil2028/express/issues"
+  },
+  "homepage": "https://github.com/AbhishekPatil2028/express#readme"
+}
